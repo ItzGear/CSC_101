@@ -16,7 +16,7 @@ Change the file name to "your name In Class Activity 1" and hand in these correc
 
 Question 1
 """
-
+//In math, you cannot set something equal to zero because it is undefinable.
 x = 15
 y = 5
 z = 3
@@ -24,23 +24,22 @@ k = x/y
 print(k)
 
 """Question 2"""
-
+//There was an unnecessary indent in front of print.
 x = 10
 y = 20
 z = 30
 print(x, y, z)
 
 """Question 3"""
-
 # This program converts miles to km
-
+//There was a mistake in spelling "multiplier".
 miles = 10
 multiplier = 1.609344
 km = miles * multiplier
 print(km)
 
 """Question 4"""
-
+//They forgot to close the parentheses.
 x = 1
 y = 10
 z = 2
@@ -49,6 +48,6 @@ print((x * t) / (y / z))
 print('Done')
 
 """Question 5"""
-
+//The spelling of "fruit" was misspelled three times.
 fruit = "kiwi"
 print(fruit, fruit, fruit)
